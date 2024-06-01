@@ -22,8 +22,6 @@ Repositorio de Laboratorio 11 de IronHack
 
 ### Diagrama de Arquitectura
 
-![AWS Architecture Diagram](link_to_diagram) *(El diagrama debe incluir EC2, S3, VPC con subredes públicas y privadas, y otros componentes relevantes)*
-
 ## Parte 2: Configuración de IAM
 
 ### Configuración Propuesta
